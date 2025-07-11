@@ -1,0 +1,21 @@
+
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+    height: 12px; /* Height of the scrollbar for horizontal scroll */
+  }
+  
+  /* Customize the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background-color: #2c2c2c; /* Dark background for the scrollbar track */
+    border-radius: 10px; /* Optional: Rounded corners for the track */
+  }
+  
+  /* Customize the scrollbar thumb (the draggable part) */
+  ::-webkit-scrollbar-thumb {
+    background-color: #555; /* Dark gray for the thumb */
+    border-radius: 10px; /* Optional: Rounded corners for the thumb */
+    border: 2px solid #333; /* Optional: Border for thumb to make it stand out */
+  }
+  
+  /* Customize the scrollbar when hovering over i
+  
